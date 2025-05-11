@@ -1,10 +1,12 @@
 # with React Hooks deployed on vercel 
 
 A fitness landing page enhanced with React Hooks, featuring dark/light mode toggle and interactive elements.
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://bit.ly/3Stx0RP)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://neo-1.vercel.app/)
+
 ## 📱 Screenshots
 ### Light Mode
 ![Light Mode](lightmode_screenshot.png)
